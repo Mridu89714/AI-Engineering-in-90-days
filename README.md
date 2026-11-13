@@ -26,7 +26,3 @@ Welcome to my 90-day journey of learning Artificial Intelligence, Machine Learni
 
 Projects will be added throughout this journey.
 
-## Progress
-
-Day 0 - Development environment and GitHub setup.
-Day 1 - Completed python fundamentals and exercises.
