@@ -1,0 +1,3 @@
+AI Model: GPT
+Token Limit: 8000
+Tokens Used: 2500

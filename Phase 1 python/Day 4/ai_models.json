@@ -1,0 +1,17 @@
+{
+    "GPT": {
+        "provider": "OpenAI",
+        "temperature": 0.7,
+        "max_tokens": 8000
+    },
+    "Gemini": {
+        "provider": "Google",
+        "temperature": 0.5,
+        "max_tokens": 4000
+    },
+    "Claude": {
+        "provider": "Anthropic",
+        "temperature": 0.5,
+        "max_tokens": 6000
+    }
+}
