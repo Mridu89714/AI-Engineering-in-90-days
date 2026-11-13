@@ -1,4 +1,4 @@
-﻿# My 90 Days AI Engineering Journey 🚀
+﻿# My 90 Days AI Engineering Journey 
 
 Welcome to my 90-day journey of learning Artificial Intelligence, Machine Learning and Generative AI.
 
